@@ -16,4 +16,10 @@ This project implements an AI-based Security Information and Event Management (A
 ---
 
 ## 🗂️ Project Structure
-
+CyberThreatDetection/
+├── datasets/ # Place your CSV dataset(s) here (e.g., kdd_train.csv)
+├── CyberThreatDetection.py # Main GUI-based application
+├── test.py # CLI-based SVM test script
+├── run.bat # Batch file to launch GUI
+├── SCREENSHOTS.docx # Contains step-by-step execution screenshots
+├── README.md # Project documentation
